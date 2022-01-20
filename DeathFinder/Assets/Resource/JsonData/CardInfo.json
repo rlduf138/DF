@@ -1,0 +1,10 @@
+[{"index":0, "_type":0, "_name":"독안개", "_explain":"독안개를 소환하여 지속 피해를 입힌다.(1sec당 4dmg / 10초)", "_cost" : 3 ,"_sprite" : "magicCardIllust_00"},
+  {"index":1, "_type":0, "_name":"마나폭발", "_explain":"마나를 사용하여 강력한 피해를입힌다.(30dmg)", "_cost" : 5 ,"_sprite" : "magicCardIllust_01"},
+  {"index":2, "_type":0, "_name":"저주/약화", "_explain":"대상에게 10초동안 약화 저주를 가한다.(약화 : 공격력과 공격속도 30% 감소)", "_cost" : 4 ,"_sprite" : "magicCardIllust_02"},
+  {"index":3, "_type":1, "_name":"보호막", "_explain":"모든 데몬에게 100의 피해를 보호하는 보호막을 5초간 활성화한다", "_cost" : 3 ,"_sprite" : "magicCardIllust_03"},
+  {"index":4, "_type":1, "_name":"회복", "_explain":"모든 데몬의 체력을 10% 회복한다", "_cost" : 2 ,"_sprite" : "magicCardIllust_04"},
+  {"index":5, "_type":1, "_name":"부활", "_explain":"소멸한 데몬 중 랜덤으로 한 개의 개체를 100% 체력으로 부활시킨다.", "_cost" : 30 ,"_sprite" : "magicCardIllust_05"},
+  {"index":6, "_type":1, "_name":"마나이터", "_explain":"소량의 마나를 회복한다. (10회복)", "_cost" : 0 ,"_sprite" : "magicCardIllust_06"},
+  {"index":7, "_type":1, "_name":"더블카드", "_explain":"카드 2장을 즉시 가져온다", "_cost" : 0 ,"_sprite" : "magicCardIllust_07"},
+  {"index":8, "_type":1, "_name":"버서커", "_explain":"모든 데몬의 공격속도를 5초동안 상승시킨다.(20% 증가)", "_cost" : 5 ,"_sprite" : "magicCardIllust_08"}
+  ]

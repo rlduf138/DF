@@ -1,0 +1,34 @@
+[{"index":0, "_type":1, "_name":"명령:공격중지", "_explain":"군단에 공격 중지 명령을 내린다.", "_cost" : 1 ,"_sprite" : "magicCardIllust_00"},
+  {"index":1, "_type":1, "_name":"명령:공격재개", "_explain":"'명령:공격중지'로 중단된 공격을 재개한다.", "_cost" : 1 ,"_sprite" : "magicCardIllust_01"},
+  {"index":2, "_type":1, "_name":"명령:돌격!", "_explain":"군단이 앞쪽으로 긴급히 뛴다.", "_cost" : 1 ,"_sprite" : "magicCardIllust_02"},
+  {"index":3, "_type":1, "_name":"명령:물러서!", "_explain":"군단이 뒤쪽으로 긴급히 뛴다.", "_cost" : 1 ,"_sprite" : "magicCardIllust_03"},
+  {"index":4, "_type":1, "_name":"명령:숨어!", "_explain":"땅을 파고들어 회피한 이후 다시 일어난다.", "_cost" : 1 ,"_sprite" : "magicCardIllust_04"},
+  {"index":5, "_type":0, "_name":"독안개", "_explain":"적에게 독안개를 소환하여 지속적인 피해를 입힌다.", "_cost" : 3 ,"_sprite" : "magicCardIllust_05"},
+  {"index":6, "_type":1, "_name":"본스피어", "_explain":"뼈로 이루어진 창을 만들어 적에게 투척한다.", "_cost" : 6 ,"_sprite" : "magicCardIllust_06"},
+  {"index":7, "_type":1, "_name":"메테오", "_explain":"적에게 큰 운석을 떨어뜨린다.", "_cost" : 8 ,"_sprite" : "magicCardIllust_07"},
+  {"index":8, "_type":0, "_name":"보호막", "_explain":"군단에 일정 피해를 보호하는 보호막을 5초간 활성화한다.", "_cost" : 3 ,"_sprite" : "magicCardIllust_08"},
+  {"index":9, "_type":0, "_name":"회복", "_explain":"군단의 체력을 조금 회복한다.", "_cost" : 2 ,"_sprite" : "magicCardIllust_09"},
+  {"index":10, "_type":0, "_name":"부활", "_explain":"[깨끗한 묘비] 중 하나를 체력 30%의 개체로 부활시킨다.", "_cost" : 30 ,"_sprite" : "magicCardIllust_10"},
+  {"index":11, "_type":0, "_name":"더블카드", "_explain":"카드 2장을 즉시 가져온다", "_cost" : 0 ,"_sprite" : "magicCardIllust_11"},
+  {"index":12, "_type":0, "_name":"뭐 좀 해봐!", "_explain":"군단의 공격확률을 x초 동안 상승시킨다.", "_cost" : 5 ,"_sprite" : "magicCardIllust_12"},
+  {"index":13, "_type":1, "_name":"희생", "_explain":"아군 하나를 희생하여 나머지 개체의 체력을 회복한다.", "_cost" : 3 ,"_sprite" : "magicCardIllust_13"},
+  {"index":14, "_type":1, "_name":"증폭", "_explain":"군단의 공격간격이 x초간 감소", "_cost" : 6 ,"_sprite" : "magicCardIllust_14"},
+  {"index":15, "_type":1, "_name":"사이클론", "_explain":"적에게 사이클론을 생성한다.", "_cost" : 7 ,"_sprite" : "magicCardIllust_15"},
+  {"index":16, "_type":0, "_name":"가시방패", "_explain":"군단에 30%의 피해를 반사하는 가시방패를 5초간 활성화한다.", "_cost" : 5 ,"_sprite" : "magicCardIllust_16"},
+
+
+  {"index":24, "_type":1, "_name":"저주:약화", "_explain":"적에게 10초 동안 약화 저주를 가한다.(공격력 감소)", "_cost" : 4 ,"_sprite" : "magicCardIllust_24"},
+  {"index":25, "_type":1, "_name":"저주:결빙", "_explain":"적에게 5초 동안 결빙 저주를 가한다.(모든 행동 불가, 받는 데미지 감소)", "_cost" : 7 ,"_sprite" : "magicCardIllust_25"},
+  {"index":26, "_type":1, "_name":"저주:선고", "_explain":"적에게 10초동안 선고 저주를 가한다.", "_cost" : 7 ,"_sprite" : "magicCardIllust_26"},
+  {"index":27, "_type":1, "_name":"마나:폭발", "_explain":"마나를 사용하여 피해를입힌다.", "_cost" : 5 ,"_sprite" : "magicCardIllust_27"},
+  {"index":28, "_type":1, "_name":"마나:이터", "_explain":"소량의 마나를 회복한다.", "_cost" : 0 ,"_sprite" : "magicCardIllust_28"},
+
+  {"index":32, "_type":1, "_name":"복수", "_explain":"군단의 남은 체력에 비례해 적 보스에게 피해를 입힌다.", "_cost" : 2 ,"_sprite" : "magicCardIllust_32"},
+  {"index":33, "_type":1, "_name":"날 기억해줘!", "_explain":"체력이 제일 적은 개체 하나가 적 보스로 이동해 자폭한다.", "_cost" : 1 ,"_sprite" : "magicCardIllust_33"},
+
+  {"index":35, "_type":1, "_name":"야전병원", "_explain":"체력을 회복시켜주는 토템을 설치한다.", "_cost" : 8 ,"_sprite" : "magicCardIllust_35"},
+
+  {"index":38, "_type":1, "_name":"사소한 욕심", "_explain":"다음 기본 드로우 3번동안 카드를 가져오는 간격이 감소한다.", "_cost" : 3 ,"_sprite" : "magicCardIllust_38"},
+
+  {"index":47, "_type":0, "_name":"버서커", "_explain":"5초동안 모든 개체의 받는데미지가 증가하고 공격력이 증가한다.", "_cost" : 2 ,"_sprite" : "magicCardIllust_47"}
+]

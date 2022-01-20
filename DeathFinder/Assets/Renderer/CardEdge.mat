@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardEdge
+  m_Shader: {fileID: -6465566751694194690, guid: b359e21a955a989499c0a8da8310f197,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_20A1874F:
+        m_Texture: {fileID: 2800000, guid: fdda187bf9c0cb84997e8459041c6a04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9C0A5202:
+        m_Texture: {fileID: 2800000, guid: d02212c6845e7594699e60bccd6f646b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B483FC53:
+        m_Texture: {fileID: 2800000, guid: fdda187bf9c0cb84997e8459041c6a04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F4479FC1:
+        m_Texture: {fileID: 2800000, guid: d02212c6845e7594699e60bccd6f646b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FBB9597D:
+        m_Texture: {fileID: 2800000, guid: fdda187bf9c0cb84997e8459041c6a04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_16AE3F75_Out_0:
+        m_Texture: {fileID: 2800000, guid: fdda187bf9c0cb84997e8459041c6a04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_218623AB_Out_0:
+        m_Texture: {fileID: 2800000, guid: d02212c6845e7594699e60bccd6f646b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_273E0FF: {r: 0, g: 2.1160593, b: 2.270603, a: 0}
+    - Color_AA326D2D: {r: 0, g: 0.54332674, b: 0.6597539, a: 0}

@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 9bce9e7c057d14d428b8db3337c0046f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4606346370213241629
+    second: monster03_phantom_sheet_0
+  - first:
+      213: -7080019104892538527
+    second: monster03_phantom_sheet_1
+  - first:
+      213: 7230244409086312421
+    second: monster03_phantom_sheet_2
+  - first:
+      213: 8495211014170245938
+    second: monster03_phantom_sheet_3
+  - first:
+      213: -1065687232094792735
+    second: monster03_phantom_sheet_4
+  - first:
+      213: -7800717935658920761
+    second: monster03_phantom_sheet_5
+  - first:
+      213: 2297981996923200908
+    second: monster03_phantom_sheet_6
+  - first:
+      213: -560523080692812094
+    second: monster03_phantom_sheet_7
+  - first:
+      213: -982279607799313835
+    second: monster03_phantom_sheet_8
+  - first:
+      213: -7631480896623790836
+    second: monster03_phantom_sheet_9
+  - first:
+      213: -8570616618585654002
+    second: monster03_phantom_sheet_10
+  - first:
+      213: 2098415030483941420
+    second: monster03_phantom_sheet_11
+  - first:
+      213: 4950462405639571290
+    second: monster03_phantom_sheet_12
+  - first:
+      213: 708952581235690418
+    second: monster03_phantom_sheet_13
+  - first:
+      213: 4379164379923400203
+    second: monster03_phantom_sheet_14
+  - first:
+      213: -4842822213739288320
+    second: monster03_phantom_sheet_15
+  - first:
+      213: -3636785023363782170
+    second: monster03_phantom_sheet_16
+  - first:
+      213: 4328333522450591478
+    second: monster03_phantom_sheet_17
+  - first:
+      213: 1527325315848377015
+    second: monster03_phantom_sheet_18
+  - first:
+      213: -3669386312097209320
+    second: monster03_phantom_sheet_19
+  - first:
+      213: 7882116652702024920
+    second: monster03_phantom_sheet_20
+  - first:
+      213: 9170725550161329466
+    second: monster03_phantom_sheet_21
+  - first:
+      213: -4514174944433544844
+    second: monster03_phantom_sheet_22
+  - first:
+      213: -9185386169243269270
+    second: monster03_phantom_sheet_23
+  - first:
+      213: 5152540035594355922
+    second: monster03_phantom_sheet_24
+  - first:
+      213: -8033867618150747628
+    second: monster03_phantom_sheet_25
+  - first:
+      213: 8445781066160917125
+    second: monster03_phantom_sheet_26
+  - first:
+      213: 7732258864682735781
+    second: monster03_phantom_sheet_27
+  - first:
+      213: -5964524687118776077
+    second: monster03_phantom_sheet_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1368f44e970def30800000000000000
+      internalID: 4606346370213241629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b6e9b228bebd90800000000000000
+      internalID: -7080019104892538527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eff7da8bfcf65460800000000000000
+      internalID: 7230244409086312421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7a97686d05e570800000000000000
+      internalID: 8495211014170245938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e31251db1be531f0800000000000000
+      internalID: -1065687232094792735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c418041e584eb390800000000000000
+      internalID: -7800717935658920761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a9d2737214ef10800000000000000
+      internalID: 2297981996923200908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b5e65a3f9838f0800000000000000
+      internalID: -560523080692812094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a030ba6ed3e52f0800000000000000
+      internalID: -982279607799313835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053f8ece88871690800000000000000
+      internalID: -7631480896623790836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d742f289d0f0980800000000000000
+      internalID: -8570616618585654002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f5533a511f1d10800000000000000
+      internalID: 2098415030483941420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57821a445393b440800000000000000
+      internalID: 4950462405639571290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb462fcd94b6d900800000000000000
+      internalID: 708952581235690418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c06e3dcae5cc30800000000000000
+      internalID: 4379164379923400203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e2bfdad6daccb0800000000000000
+      internalID: -4842822213739288320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e0fd2a4b878dc0800000000000000
+      internalID: -3636785023363782170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 56
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe251bf764511c30800000000000000
+      internalID: 4328333522450591478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 56
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b29a9b5846223510800000000000000
+      internalID: 1527325315848377015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 56
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e3c32798b31dc0800000000000000
+      internalID: -3669386312097209320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 56
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ce7a9557e26d60800000000000000
+      internalID: 7882116652702024920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df6fd9c46f44f70800000000000000
+      internalID: 9170725550161329466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e11f1ecd6a51c0800000000000000
+      internalID: -4514174944433544844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67087102f3f68080800000000000000
+      internalID: -9185386169243269270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d48490fcdf718740800000000000000
+      internalID: 5152540035594355922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4127c9f67f7f18090800000000000000
+      internalID: -8033867618150747628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58acd3bc121753570800000000000000
+      internalID: 8445781066160917125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a897cc58708e4b60800000000000000
+      internalID: 7732258864682735781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster03_phantom_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8cc320660c93da0800000000000000
+      internalID: -5964524687118776077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

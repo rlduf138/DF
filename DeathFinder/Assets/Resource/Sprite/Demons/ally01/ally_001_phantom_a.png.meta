@@ -1,0 +1,1549 @@
+fileFormatVersion: 2
+guid: d714b739489b32e469e84c4b5c24f905
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1163996722893166169
+    second: ally_001_phantom_a_0
+  - first:
+      213: 8793086828753512949
+    second: ally_001_phantom_a_1
+  - first:
+      213: -5627583500059032114
+    second: ally_001_phantom_a_2
+  - first:
+      213: -1487868478277657493
+    second: ally_001_phantom_a_3
+  - first:
+      213: 2093575385863082037
+    second: ally_001_phantom_a_4
+  - first:
+      213: 354125854213967290
+    second: ally_001_phantom_a_5
+  - first:
+      213: -1588625344557415977
+    second: ally_001_phantom_a_6
+  - first:
+      213: -8575214126429018244
+    second: ally_001_phantom_a_7
+  - first:
+      213: 751215830832915404
+    second: ally_001_phantom_a_8
+  - first:
+      213: 5692911343362802763
+    second: ally_001_phantom_a_9
+  - first:
+      213: -5684379968296341633
+    second: ally_001_phantom_a_10
+  - first:
+      213: -8713799780597149814
+    second: ally_001_phantom_a_11
+  - first:
+      213: -3768130173640282769
+    second: ally_001_phantom_a_12
+  - first:
+      213: 5767540105595220454
+    second: ally_001_phantom_a_13
+  - first:
+      213: 7655289208114887597
+    second: ally_001_phantom_a_14
+  - first:
+      213: -3159280032762126380
+    second: ally_001_phantom_a_15
+  - first:
+      213: -852942048875780537
+    second: ally_001_phantom_a_16
+  - first:
+      213: -4172731151017973838
+    second: ally_001_phantom_a_17
+  - first:
+      213: 2702227056819639759
+    second: ally_001_phantom_a_18
+  - first:
+      213: 3213105108261098686
+    second: ally_001_phantom_a_19
+  - first:
+      213: -3638871311512487764
+    second: ally_001_phantom_a_20
+  - first:
+      213: 2573515255768958655
+    second: ally_001_phantom_a_21
+  - first:
+      213: 7172919243135756168
+    second: ally_001_phantom_a_22
+  - first:
+      213: -1696118457318149994
+    second: ally_001_phantom_a_23
+  - first:
+      213: -2391136347763303578
+    second: ally_001_phantom_a_24
+  - first:
+      213: -6316571083610814747
+    second: ally_001_phantom_a_25
+  - first:
+      213: -5557577578576468905
+    second: ally_001_phantom_a_26
+  - first:
+      213: 3960341888398342013
+    second: ally_001_phantom_a_27
+  - first:
+      213: -5217098972583805985
+    second: ally_001_phantom_a_28
+  - first:
+      213: -4421027816215741657
+    second: ally_001_phantom_a_29
+  - first:
+      213: -6714212975225440014
+    second: ally_001_phantom_a_30
+  - first:
+      213: -1673953152169261763
+    second: ally_001_phantom_a_31
+  - first:
+      213: -4097860295195711964
+    second: ally_001_phantom_a_32
+  - first:
+      213: -5361891690203874554
+    second: ally_001_phantom_a_33
+  - first:
+      213: -6947928687282718745
+    second: ally_001_phantom_a_34
+  - first:
+      213: -7284351675765143187
+    second: ally_001_phantom_a_35
+  - first:
+      213: 7265873436440744202
+    second: ally_001_phantom_a_36
+  - first:
+      213: 2156994272295658229
+    second: ally_001_phantom_a_37
+  - first:
+      213: -8290720967968014671
+    second: ally_001_phantom_a_38
+  - first:
+      213: 2725415172426678581
+    second: ally_001_phantom_a_39
+  - first:
+      213: -3799666174351489664
+    second: ally_001_phantom_a_40
+  - first:
+      213: 8196286903245182998
+    second: ally_001_phantom_a_41
+  - first:
+      213: -8127345415847079610
+    second: ally_001_phantom_a_42
+  - first:
+      213: -5067496568647076918
+    second: ally_001_phantom_a_43
+  - first:
+      213: 8026459404333947098
+    second: ally_001_phantom_a_44
+  - first:
+      213: 1043187455084704209
+    second: ally_001_phantom_a_45
+  - first:
+      213: 3351884509154300183
+    second: ally_001_phantom_a_46
+  - first:
+      213: -1363982699979497544
+    second: ally_001_phantom_a_47
+  - first:
+      213: 4484597323619583038
+    second: ally_001_phantom_a_48
+  - first:
+      213: -2442734413310993174
+    second: ally_001_phantom_a_49
+  - first:
+      213: -2718058597331950762
+    second: ally_001_phantom_a_50
+  - first:
+      213: -5406517038825605433
+    second: ally_001_phantom_a_51
+  - first:
+      213: -4967471103463285823
+    second: ally_001_phantom_a_52
+  - first:
+      213: -566691597495212854
+    second: ally_001_phantom_a_0
+  - first:
+      213: -573561745675246428
+    second: ally_001_phantom_a_1
+  - first:
+      213: 2218178228289093915
+    second: ally_001_phantom_a_2
+  - first:
+      213: 2780298707686488313
+    second: ally_001_phantom_a_3
+  - first:
+      213: 7587437200289626637
+    second: ally_001_phantom_a_4
+  - first:
+      213: 2677626209406211851
+    second: ally_001_phantom_a_5
+  - first:
+      213: 1502231146159605685
+    second: ally_001_phantom_a_6
+  - first:
+      213: 4668882268696471475
+    second: ally_001_phantom_a_7
+  - first:
+      213: 2801659616601601347
+    second: ally_001_phantom_a_8
+  - first:
+      213: 3296175589850158312
+    second: ally_001_phantom_a_9
+  - first:
+      213: 8541427105748276563
+    second: ally_001_phantom_a_10
+  - first:
+      213: -2718254312000601382
+    second: ally_001_phantom_a_11
+  - first:
+      213: 7397273103005745658
+    second: ally_001_phantom_a_12
+  - first:
+      213: 5487294337548249101
+    second: ally_001_phantom_a_13
+  - first:
+      213: 4429103556241892547
+    second: ally_001_phantom_a_14
+  - first:
+      213: -5766135273413712721
+    second: ally_001_phantom_a_15
+  - first:
+      213: -8384199928594711778
+    second: ally_001_phantom_a_16
+  - first:
+      213: -7700873383734874825
+    second: ally_001_phantom_a_17
+  - first:
+      213: -3853267543003686327
+    second: ally_001_phantom_a_18
+  - first:
+      213: -4186841760200856111
+    second: ally_001_phantom_a_19
+  - first:
+      213: -3620907556215862020
+    second: ally_001_phantom_a_20
+  - first:
+      213: -1143813618304874254
+    second: ally_001_phantom_a_21
+  - first:
+      213: -3563347752690106528
+    second: ally_001_phantom_a_22
+  - first:
+      213: -2928424159791598124
+    second: ally_001_phantom_a_23
+  - first:
+      213: 9038607994057922736
+    second: ally_001_phantom_a_24
+  - first:
+      213: -4909423941199292614
+    second: ally_001_phantom_a_25
+  - first:
+      213: 3578663537310757383
+    second: ally_001_phantom_a_26
+  - first:
+      213: -526344196460913140
+    second: ally_001_phantom_a_27
+  - first:
+      213: 7407398572792541696
+    second: ally_001_phantom_a_28
+  - first:
+      213: -4286980767818576967
+    second: ally_001_phantom_a_29
+  - first:
+      213: 4606567607260743163
+    second: ally_001_phantom_a_30
+  - first:
+      213: -3335898318005152766
+    second: ally_001_phantom_a_31
+  - first:
+      213: -6858540449793135126
+    second: ally_001_phantom_a_32
+  - first:
+      213: -1518346774237499031
+    second: ally_001_phantom_a_33
+  - first:
+      213: -5601732601182463824
+    second: ally_001_phantom_a_34
+  - first:
+      213: 2181142690283071884
+    second: ally_001_phantom_a_35
+  - first:
+      213: -9196632347697188930
+    second: ally_001_phantom_a_36
+  - first:
+      213: 1242853000908829503
+    second: ally_001_phantom_a_37
+  - first:
+      213: -1028474662318060377
+    second: ally_001_phantom_a_38
+  - first:
+      213: 6093343526086972660
+    second: ally_001_phantom_a_39
+  - first:
+      213: 4090123083296210691
+    second: ally_001_phantom_a_40
+  - first:
+      213: 6149410579588497077
+    second: ally_001_phantom_a_41
+  - first:
+      213: 4404813789997834789
+    second: ally_001_phantom_a_42
+  - first:
+      213: -5840900113639507715
+    second: ally_001_phantom_a_43
+  - first:
+      213: -6179656573038621154
+    second: ally_001_phantom_a_44
+  - first:
+      213: -6937467980906465393
+    second: ally_001_phantom_a_45
+  - first:
+      213: 2882624373758935159
+    second: ally_001_phantom_a_46
+  - first:
+      213: 77723114278277588
+    second: ally_001_phantom_a_47
+  - first:
+      213: 7848531768675019977
+    second: ally_001_phantom_a_48
+  - first:
+      213: -8575368067367833920
+    second: ally_001_phantom_a_49
+  - first:
+      213: -8833669599050281789
+    second: ally_001_phantom_a_50
+  - first:
+      213: 1211058855718923421
+    second: ally_001_phantom_a_51
+  - first:
+      213: 7682158959704527545
+    second: ally_001_phantom_a_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ally_001_phantom_a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4691a9ef4b228f0800000000000000
+      internalID: -566691597495212854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4264491ac4a08f0800000000000000
+      internalID: -573561745675246428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114da1a85d88ce10800000000000000
+      internalID: 2218178228289093915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f87129a1fa959620800000000000000
+      internalID: 2780298707686488313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af8d60fedfb4960800000000000000
+      internalID: 7587437200289626637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07deecc9d6d82520800000000000000
+      internalID: 2677626209406211851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b70f5da44ff8d410800000000000000
+      internalID: 1502231146159605685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e5c3cfa33bc040800000000000000
+      internalID: 4668882268696471475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457815d39e71e620800000000000000
+      internalID: 2801659616601601347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4155e2c3e5ebd20800000000000000
+      internalID: 3296175589850158312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d401c2be398670800000000000000
+      internalID: 8541427105748276563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c70cea12d64ad0800000000000000
+      internalID: -2718254312000601382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1853bd1b468a660800000000000000
+      internalID: 7397273103005745658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0863978029c62c40800000000000000
+      internalID: 5487294337548249101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 224
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a73fc736577d30800000000000000
+      internalID: 4429103556241892547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46355e4829affa0800000000000000
+      internalID: -5766135273413712721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 168
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb14a169655ab80800000000000000
+      internalID: -8384199928594711778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 168
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73de83e5570012590800000000000000
+      internalID: -7700873383734874825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 169
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a19bac591768ac0800000000000000
+      internalID: -3853267543003686327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 168
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde4781a9955e5c0800000000000000
+      internalID: -4186841760200856111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 168
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcc93313c3ffbdc0800000000000000
+      internalID: -3620907556215862020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80fa7039b5020f0800000000000000
+      internalID: -1143813618304874254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f38bd29127c8ec0800000000000000
+      internalID: -3563347752690106528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d533fbfdb52c57d0800000000000000
+      internalID: -2928424159791598124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b814ddf4169f6d70800000000000000
+      internalID: 9038607994057922736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37940dcfe83edbb0800000000000000
+      internalID: -4909423941199292614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702fc00d687f9a130800000000000000
+      internalID: 3578663537310757383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0edb54fdbc02b8f0800000000000000
+      internalID: -526344196460913140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 112
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f80181cd5cc660800000000000000
+      internalID: 7407398572792541696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb0e3f74b59184c0800000000000000
+      internalID: -4286980767818576967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5099805d0ddef30800000000000000
+      internalID: 4606567607260743163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204da74772284b1d0800000000000000
+      internalID: -3335898318005152766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedae6c8cc191d0a0800000000000000
+      internalID: -6858540449793135126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b6b347afbdeae0800000000000000
+      internalID: -1518346774237499031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85bc3e0e5a242b0800000000000000
+      internalID: -5601732601182463824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8923ca78b9f44e10800000000000000
+      internalID: 2181142690283071884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf64a90b9ffe5080800000000000000
+      internalID: -9196632347697188930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f23b28308f3110800000000000000
+      internalID: 1242853000908829503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_38
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acca046ebf1ab1f0800000000000000
+      internalID: -1028474662318060377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_39
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f417de27a7ef8450800000000000000
+      internalID: 6093343526086972660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ffe7b164903c830800000000000000
+      internalID: 4090123083296210691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_41
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beb6665758175550800000000000000
+      internalID: 6149410579588497077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_42
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 56
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222096edca012d30800000000000000
+      internalID: 4404813789997834789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df87af50b44f0fea0800000000000000
+      internalID: -5840900113639507715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e002a86137d3aa0800000000000000
+      internalID: -6179656573038621154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877c6da0a929bf90800000000000000
+      internalID: -6937467980906465393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c8ca5893210820800000000000000
+      internalID: 2882624373758935159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d469b2c0241100800000000000000
+      internalID: 77723114278277588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2e307f069bec60800000000000000
+      internalID: 7848531768675019977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceef4e4d2c2ef880800000000000000
+      internalID: -8575368067367833920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_50
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc07d6d40886580800000000000000
+      internalID: -8833669599050281789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca731ec9b8ec010800000000000000
+      internalID: 1211058855718923421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ally_001_phantom_a_52
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d54d3fd28c9a60800000000000000
+      internalID: 7682158959704527545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: ed108729657b1e0478ce5048b96bf920, type: 3}
+      name: sub
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

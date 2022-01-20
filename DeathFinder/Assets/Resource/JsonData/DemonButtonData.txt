@@ -1,0 +1,80 @@
+[{
+	"index": 0,
+	"_name": "스켈레톤",
+	"attackLevel": 1,
+	"shieldLevel": 1,
+	"rangeLevel": 1
+	
+}, {
+	"index": 1,
+	"_name": "헬하운드",
+	"attackLevel": 1,
+	"shieldLevel": 1,
+	"rangeLevel": 1
+	
+
+}, {
+	"index": 2,
+	"_name": "팬텀",
+	"attackLevel": 2,
+	"shieldLevel": 1,
+	"rangeLevel": 1
+	
+}, {
+	"index": 3,
+	"_name": "리치",
+	"attackLevel": 1,
+	"shieldLevel": 1,
+	"rangeLevel": 2
+	
+}, {
+	"index": 4,
+	"_name": "위치",
+	"attackLevel": 2,
+	"shieldLevel": 1,
+	"rangeLevel": 1
+	
+}, {
+	"index": 5,
+	"_name": "골렘",
+	"attackLevel": 1,
+	"shieldLevel": 2,
+	"rangeLevel": 1
+	
+}, {
+	"index": 6,
+	"_name": "오크",
+	"attackLevel": 1,
+	"shieldLevel": 2,
+	"rangeLevel": 1
+	
+}, {
+	"index": 7,
+	"_name": "놀",
+	"attackLevel": 1,
+	"shieldLevel": 1,
+	"rangeLevel": 1
+	
+}, {
+	"index": 8,
+	"_name": "코볼트",
+	"attackLevel": 1,
+	"shieldLevel": 1,
+	"rangeLevel": 2
+	
+}, {
+	"index": 9,
+	"_name": "워록",
+	"attackLevel": 2,
+	"shieldLevel": 1,
+	"rangeLevel": 2
+	
+}, {
+	"index": 10,
+	"_name": "오거",
+	"attackLevel": 1,
+	"shieldLevel": 3,
+	"rangeLevel": 1
+	
+}
+]

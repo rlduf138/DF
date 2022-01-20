@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3362826381944885440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1713406859120821917}
+  - component: {fileID: 8241656427624738001}
+  m_Layer: 0
+  m_Name: 05_PoisonMist
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1713406859120821917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3362826381944885440}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8241656427624738001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3362826381944885440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6174e0c9e14fe1946ae85c35afd4dcd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  macigIndex: 5
+  magicSprite: {fileID: 21300000, guid: a04d1eee24b6e8943b7f5d3217ab51e6, type: 3}
+  magicName: "\uB3C5\uC548\uAC1C"
+  magicExplain: "\uC801\uC5D0\uAC8C \uB3C5\uC548\uAC1C\uB97C \uC18C\uD658\uD558\uC5EC
+    \uC9C0\uC18D\uC801\uC778 \uD53C\uD574\uB97C \uC785\uD78C\uB2E4."
+  cost: 3
+  poisonDamage: 4
+  poisonTime: 10

@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: cd43931eb2e0edb4a93585748a7de231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8260312912829696022
+    second: bloodeffect_small_0
+  - first:
+      213: 6143622333498685164
+    second: bloodeffect_small_1
+  - first:
+      213: -7009297486095920282
+    second: bloodeffect_small_2
+  - first:
+      213: 88127121244960617
+    second: bloodeffect_small_3
+  - first:
+      213: -2091679549888138150
+    second: bloodeffect_small_4
+  - first:
+      213: 7677523302962309986
+    second: bloodeffect_small_5
+  - first:
+      213: 3396221401505611916
+    second: bloodeffect_small_6
+  - first:
+      213: -3786877007588934109
+    second: bloodeffect_small_7
+  - first:
+      213: 2595895011904668333
+    second: bloodeffect_small_8
+  - first:
+      213: -3370893219659516428
+    second: bloodeffect_small_9
+  - first:
+      213: 4153536830496137447
+    second: bloodeffect_small_10
+  - first:
+      213: 1316967284526959103
+    second: bloodeffect_small_11
+  - first:
+      213: -8632380194195217675
+    second: bloodeffect_small_12
+  - first:
+      213: -3070268496958792245
+    second: bloodeffect_small_13
+  - first:
+      213: 1760967095966406858
+    second: bloodeffect_small_14
+  - first:
+      213: 6874398223330178643
+    second: bloodeffect_small_15
+  - first:
+      213: -4172122141132620208
+    second: bloodeffect_small_16
+  - first:
+      213: -3173212782267467779
+    second: bloodeffect_small_17
+  - first:
+      213: -1785018219750846800
+    second: bloodeffect_small_18
+  - first:
+      213: -4822353537457969856
+    second: bloodeffect_small_19
+  - first:
+      213: -6481777889510577759
+    second: bloodeffect_small_20
+  - first:
+      213: 5437300265075426473
+    second: bloodeffect_small_21
+  - first:
+      213: 8274563242336259946
+    second: bloodeffect_small_22
+  - first:
+      213: 1357468183736611959
+    second: bloodeffect_small_23
+  - first:
+      213: 6096120104770816633
+    second: bloodeffect_small_24
+  - first:
+      213: 8090997520984629283
+    second: bloodeffect_small_25
+  - first:
+      213: -949816257423072570
+    second: bloodeffect_small_26
+  - first:
+      213: -5372751346883455554
+    second: bloodeffect_small_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloodeffect_small_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b639bb297d5d80800000000000000
+      internalID: -8260312912829696022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6785646f7824550800000000000000
+      internalID: 6143622333498685164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d630c219f9be90800000000000000
+      internalID: -7009297486095920282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96732ec5627193100800000000000000
+      internalID: 88127121244960617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f7f4188cd8f2e0800000000000000
+      internalID: -2091679549888138150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b2adb44ca0c8a60800000000000000
+      internalID: 7677523302962309986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 99
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804257ee5dc12f20800000000000000
+      internalID: 3396221401505611916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3192ec6f427bc0800000000000000
+      internalID: -3786877007588934109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da249ca72c8760420800000000000000
+      internalID: 2595895011904668333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5fb6af97e2831d0800000000000000
+      internalID: -3370893219659516428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0693fadb354a930800000000000000
+      internalID: 4153536830496137447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff94a0784cec64210800000000000000
+      internalID: 1316967284526959103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f260ee13ff933880800000000000000
+      internalID: -8632380194195217675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd2b9a1173465d0800000000000000
+      internalID: -3070268496958792245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89a386e36307810800000000000000
+      internalID: 1760967095966406858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356fb2213c4c66f50800000000000000
+      internalID: 6874398223330178643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7f3a7405a916c0800000000000000
+      internalID: -4172122141132620208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7f73479cb76f3d0800000000000000
+      internalID: -3173212782267467779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be8626f2675a37e0800000000000000
+      internalID: -1785018219750846800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0452872f10f831db0800000000000000
+      internalID: -4822353537457969856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 33
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9adb6f9591c06a0800000000000000
+      internalID: -6481777889510577759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a445f478cb257b40800000000000000
+      internalID: 5437300265075426473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f05faad6725d270800000000000000
+      internalID: 8274563242336259946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f385fe12b6d210800000000000000
+      internalID: 1357468183736611959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4bf8cfe4c99450800000000000000
+      internalID: 6096120104770816633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320eadc906ff84070800000000000000
+      internalID: 8090997520984629283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2286e652391d2f0800000000000000
+      internalID: -949816257423072570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodeffect_small_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34.142857
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59286bd172075b0800000000000000
+      internalID: -5372751346883455554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
