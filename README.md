@@ -13,7 +13,7 @@
  <img src = "./DeathFinder/img/DF2.PNG" width = "50%" height = "50%" title = "px Set" alt = "DF2"></img>
  <img src = "./DeathFinder/img/DF3.PNG" width = "50%" height = "50%" title = "px Set" alt = "DF3"></img>
  
- 게임 플레이 영상 :
+ 게임 플레이 영상 : https://youtu.be/62dUPcXahO8
  
  **승리 조건 : 상대 유닛의 상단체력을 전부 깎으면 승리하며, 다음 스테이지가 열립니다.**   
  **패배 조건 : 플레이어의 유닛들이 모두 전투불능이 되면 패배합니다.**
